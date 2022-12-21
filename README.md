@@ -21,6 +21,7 @@ A mentorship program can be extremely beneficial for the company. As its best em
 
 With the Mentorship program in mind, we are providing our HR analyst with a list of all the candidates that qualify to be a part of it. As it is shown, the company will need a lot of head of departments to be replaced; this program will need to be developed through capacitations to the new hires, and thus needs to be implemented with enough time for all positions to be successfully trained. Further analysis can be done to calculate the costs that this implies to the company with the guarantee that all efforts were made to continue to build a solid workforce. 
 
-All data created, and a list of all the employees with their titles are found within the "Data" Folder
+All data created, and a list of all the employees with their titles are found within the "Data" Folder.
+(Below is a snippet of the list of elegible candidates for the mentorship program)
 ![Screenshot (31)](https://user-images.githubusercontent.com/111472338/209000023-aeb11f5e-bd4d-4cbf-abbd-50685d31e992.png)
 
